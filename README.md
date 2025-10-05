@@ -1,4 +1,3 @@
-# Portfolio
 # 💼 Ritika Chouhan – Personal Portfolio
 
 Welcome to my personal portfolio website!  
@@ -19,7 +18,7 @@ It highlights my:
 
 Every section is designed to be **interactive and mobile-friendly**, ensuring a smooth viewing experience on any device.
 
----
+
 
 ## 🧩 Features
 
@@ -29,7 +28,7 @@ Every section is designed to be **interactive and mobile-friendly**, ensuring a 
 - Dynamic portfolio gallery with navigation arrows  
 - Simple JavaScript logic to control transitions  
 
----
+
 
 ## ⚙️ Technologies Used
 
@@ -44,10 +43,10 @@ Every section is designed to be **interactive and mobile-friendly**, ensuring a 
 
 ## 🚀 Live Demo
 
-🔗 **View Portfolio:** [Your GitHub Pages Link Here]  
-(Example: `https://ritikachouhan.github.io/portfolio`)
+🔗  https://ritika200520.github.io/Portfolio/
 
----
+
+
 
 ## 👩‍💻 About Me
 
@@ -57,13 +56,13 @@ I’ve completed internships and projects that merge business understanding with
 
 > “Smart data. Clear insights. Real impact.”
 
----
+
 
 ## 📫 Contact
 
-- 📧 **Email:** [ritikachouhan823@gmail.com]  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/ritika-chouhan-022876280/]  
-- 🧑‍💻 **GitHub:** [https://github.com/RITIKA200520]  
+- 📧 **Email:** ritikachouhan823@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ritika-chouhan-022876280/ 
+- 🧑‍💻 **GitHub:** https://github.com/RITIKA200520  
 
 ---
 
