@@ -18,7 +18,7 @@ It highlights my:
 
 Every section is designed to be **interactive and mobile-friendly**, ensuring a smooth viewing experience on any device.
 
-
+---
 
 ## 🧩 Features
 
@@ -28,7 +28,7 @@ Every section is designed to be **interactive and mobile-friendly**, ensuring a 
 - Dynamic portfolio gallery with navigation arrows  
 - Simple JavaScript logic to control transitions  
 
-
+---
 
 ## ⚙️ Technologies Used
 
@@ -46,7 +46,7 @@ Every section is designed to be **interactive and mobile-friendly**, ensuring a 
 🔗  https://ritika200520.github.io/Portfolio/
 
 
-
+---
 
 ## 👩‍💻 About Me
 
@@ -56,7 +56,7 @@ I’ve completed internships and projects that merge business understanding with
 
 > “Smart data. Clear insights. Real impact.”
 
-
+---
 
 ## 📫 Contact
 
